@@ -39,7 +39,7 @@ I'm a Nigerian Frontend developer building my version of the digital world one s
 
 <details>
  <summary><h3>👨‍💻 Emmanuel's Coding Journey</h3></summary>
-   I started my coding journey as a secondary school student with a passion to learn everything I could about this programming world. And all the while, teaching myself web development with a dream to build my app, but that soon got overshadowed by my desire to excel in Reactjs. A desire that landed me a full stack developer gig job upon graduation. But I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll keep learning new and amazing technologies and keep on building amazing projects - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now. Don't wait up, because I'm coming.
+   I started my coding journey as a secondary school student with a passion to learn everything I could about this programming world. And all the while, teaching myself web development with a dream to build my app, but that soon got overshadowed by my desire to excel in Software Engineering. A desire that landed me a full stack developer gig job upon graduation. But I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll keep learning new and amazing technologies and keep on building amazing projects - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now. Don't wait up, because I'm coming.
 
-<-- [website]: https://fkcodes.com -->
+<!-- <-- [website]: https://fkcodes.com --> -->
 
