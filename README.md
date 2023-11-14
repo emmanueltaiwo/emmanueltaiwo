@@ -1,8 +1,8 @@
 # 🏄‍♂️ Emmanuel Taiwo
 
-**`Frontend Developer`**
+**`Frontend Engineer`**
 
-I'm a Nigerian Frontend developer building my version of the digital world one step at a time. All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I use Reactjs and Nextjs to build my Powerful web apps then i use Tailwindcss to give it the perfect looks.
+I'm a Frontend Engineer from Nigeria, passionate about building the digital world step by step. I handle everything from planning and design to solving real problems with code. My go-to tools are React.js and Next.js for powerful web apps, and I use Tailwind CSS to make them look great. My goal is to contribute to the digital landscape, one project at a time.
 
    <p align="left">
       <a href="https://github.com/realemmanuel?tab=followers">
@@ -31,7 +31,7 @@ I'm a Nigerian Frontend developer building my version of the digital world one s
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=realemmanuel&show_icons=true&theme=gruvbox)
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=realemmanuel&show_icons=true&theme=gruvbox)
 
  ![GitHub Streak](https://streak-stats.demolab.com/?user=realemmanuel&theme=gruvbox&border_radius=4.5)
 
@@ -39,7 +39,10 @@ I'm a Nigerian Frontend developer building my version of the digital world one s
 
 <details>
  <summary><h3>👨‍💻 Emmanuel's Coding Journey</h3></summary>
-   I started my coding journey as a secondary school student with a passion to learn everything I could about this programming world. And all the while, teaching myself web development with a dream to build my app, but that soon got overshadowed by my desire to excel in Software Engineering. A desire that landed me a full stack developer gig job upon graduation. But I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll keep learning new and amazing technologies and keep on building amazing projects - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now. Don't wait up, because I'm coming.
+   I'm a skilled Frontend Engineer based in Lagos, Nigeria, proficient in a variety of languages and technologies that empower me to create dynamic and engaging web applications. My expertise lies in frontend technologies, including HTML5, CSS3, JavaScript (ES6+), and TypeScript. On the backend, I leverage Node.js to complement my frontend skills.
 
-<!-- <-- [website]: https://fkcodes.com --> -->
+In crafting seamless user interfaces, I utilize frameworks and libraries such as React.js, Next.js, and Tailwind CSS. Material UI, ANTD, SASS, Redux, Styled Components, Framer Motion, Jest, Cypress, Gatsby, and GraphQL are among the tools and libraries I'm proficient in. This diverse skill set allows me to create visually appealing and functional web experiences.
 
+My proficiency extends to various development tools and platforms, including VS Code, Git, GitHub, Netlify, Vercel, Figma, Firebase, Trello, Jira, Stripe, and Twilio. These tools enable me to streamline my development workflow and deliver high-quality results.
+
+Currently pursuing a Bachelor of Science in Computer Science at the National Open University of Nigeria, I'm dedicated to expanding my knowledge and expertise in the ever-evolving landscape of web development. My focus on languages and technologies allows me to stay at the forefront of advancements in the field, ensuring that I deliver modern and innovative solutions.</details>
