@@ -26,7 +26,7 @@ I'm currently building in frontend and love the journey so far!.
 - ✍️ &nbsp; I contribute to open source projects
 - 📫 &nbsp; How to reach me on Twitter [@realemmanuel](https://twitter.com/realemmanuel)
 - 💼 &nbsp; Find my resume on [Resumel](https://drive.google.com/file/d/1woEWz0LWDRAQJnavOaAj3i7kWTp4zHgJ/view?usp=sharing)
-- 🔗 &nbsp; Find my resume on [Linktree](https://linktr.ee/taiwoemmanuel)
+- 🔗 &nbsp; Check out my links on [Linktree](https://linktr.ee/taiwoemmanuel)
 
 ### Hobbies:
 
