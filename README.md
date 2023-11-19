@@ -7,7 +7,7 @@
 
 ### Great! You have arrived! Our encounter will be legendary!!!! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=realemmanuel.realemmanuel&style=flat-square&color=ffeb00)
 
-I'm a Frontend Engineer.
+I'm a Software Engineer.
 
 I am self-taught, and love discussing and writing about web development, tech, and software development.
 
@@ -25,7 +25,8 @@ I'm currently building in frontend and love the journey so far!.
 - 📈 &nbsp; I built [Spendsense](https://spendsense.com.ng)
 - ✍️ &nbsp; I contribute to open source projects
 - 📫 &nbsp; How to reach me on Twitter [@realemmanuel](https://twitter.com/realemmanuel)
-- 💼 &nbsp; Find my resume on [Resumel](https://drive.google.com/file/d/1ZGxaZBQbBcZ7t4Yl5A9FbLnFWvz04TNM/view?usp=sharing)
+- 💼 &nbsp; Find my resume on [Resumel](https://drive.google.com/file/d/1woEWz0LWDRAQJnavOaAj3i7kWTp4zHgJ/view?usp=sharing)
+- 🔗 &nbsp; Find my resume on [Linktree](https://linktr.ee/taiwoemmanuel)
 
 ### Hobbies:
 
