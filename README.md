@@ -22,7 +22,7 @@ I'm currently building in frontend and love the journey so far!.
 
 - 🛠 &nbsp; I’m currently working as a freelancer
 - 🚀 &nbsp; I’m writing content for my blog
-- 📈 &nbsp; I built [Spendsense](https://spendsense.com.ng)
+- 📈 &nbsp; I'm building [Spendsense](https://spendsense.com.ng) & [Clutch](https://cluthapp.vercel.app)
 - ✍️ &nbsp; I contribute to open source projects
 - 📫 &nbsp; How to reach me on Twitter [@thedevemmanuel](https://twitter.com/thedevemmanuel)
 - 💼 &nbsp; Find my resume on [Resumel](https://drive.google.com/file/d/188eCLoPvPBwjm042h9lpf7cNQEb1ujM1/view?usp=sharing)
