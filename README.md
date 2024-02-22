@@ -25,7 +25,7 @@ I'm currently building in frontend and love the journey so far!.
 - 📈 &nbsp; I'm building [Spendsense](https://spendsense.com.ng) & [Clutch](https://cluthapp.vercel.app)
 - ✍️ &nbsp; I contribute to open source projects
 - 📫 &nbsp; How to reach me on Twitter [@thedevemmanuel](https://twitter.com/thedevemmanuel)
-- 💼 &nbsp; Find my resume on [Resumel](https://drive.google.com/file/d/1yFfxKh5DuyBgf0u-HT6uujFqTvLw7-rA/view?usp=sharing)
+- 💼 &nbsp; Find my resume on [Resumel](https://drive.google.com/file/d/1U5NyraYYDa65HrnUQmJZ1_UXZXCHi6WZ/view?usp=sharing)
 - 🔗 &nbsp; Check out my links on [Linktree](https://linktr.ee/taiwoemmanuel)
 
 ### Hobbies:
