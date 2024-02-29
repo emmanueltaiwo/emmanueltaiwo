@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Emmanuel!](https://github.com/realemmanuel/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taiwoemmanuel/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmanueloluwafunso/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/thedevemmanuel/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/thedevemmanuel/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/thedevemmanuel)
@@ -90,9 +90,17 @@ I'm currently building in frontend and love the journey so far!.
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/realemmanuel/spendsense?style=flat-square&color=ffeb00"/></td>
         <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square&color=ffeb00"/></td> 
       </tr>
+	<tr>
+	<td><a href="https://github.com/realemmanuel/picgenie-frontend"><b>🧑🏽‍💻 PicGenie</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/realemmanuel/picgenie-frontend?style=flat-square&labelColor=343b41&color=ffeb00"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/realemmanuel/picgenie-frontend?style=flat-square&labelColor=343b41&color=ffeb00"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/realemmanuel/picgenie-frontend?style=flat-square&color=ffeb00"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/realemmanuel/picgenie-frontend?style=flat-square&color=ffeb00"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square&color=ffeb00"/></td> 
+      </tr>
     </tbody>
   </table>
   <br />
 </details>
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://realemmanuel.vercel.app/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://emmanueltaiwo.vercel.app/)
