@@ -7,23 +7,24 @@
 
 ### Great! You have arrived! Our encounter will be legendary!!!! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=realemmanuel.realemmanuel&style=flat-square&color=ffeb00)
 
-I'm a Software Engineer.
+I'm a Results-driven Software Engineer with multiple years of experience and a proven track record in developing robust and scalable software solutions. Specialized expertise in JavaScript, Typescript, Node.js, React.js, React Native, Express.js, and NoSQL databases. Delivering innovative solutions that drive operational efficiency and enhance user experiences.
 
-I am self-taught, and love discussing and writing about web development, tech, and software development.
+I am self-taught, and love discussing and writing about software development.
 
 I have built several Projects and written some technical articles for my blog the tech space.
 
-I'm currently building in frontend and love the journey so far!.
+I'm currently building in full-stack and love the journey so far!.
 
 
 [![](https://gitwar.herokuapp.com/badge?username=realemmanuel&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ffeb00)](https://gitwar.herokuapp.com/) <a href="https://twitter.com/realemmanuel" target="blank"><img src="https://img.shields.io/twitter/follow/realemmanuel?logo=twitter&style=for-the-badge&color=ffeb00" alt="realemmanuel" /></a>
 
 ### About Me:
 
-- 🛠 &nbsp; I’m currently working as a freelancer
+- 🛠 &nbsp; I’m currently working as a freelancer and building innovative solutions
 - 🚀 &nbsp; I’m writing content for my blog
-- 📈 &nbsp; I'm building [Spendsense](https://spendsense.com.ng) & [Clutch](https://cluthapp.vercel.app)
-- ✍️ &nbsp; I contribute to open source projects
+- 📈 &nbsp; I'm building [Spendsense](https://spendsense.com.ng), [PicGenie](https://picgenie.vercel.app) & [Clutch](https://cluthapp.vercel.app)
+- 🧑🏽‍💻 &nbsp; I contribute to open source projects
+-  ✍️ &nbsp; I'm write technical blogs on [Hashnode](https://taiwoemmanuel.hashnode.dev)
 - 📫 &nbsp; How to reach me on Twitter [@thedevemmanuel](https://twitter.com/thedevemmanuel)
 - 💼 &nbsp; Find my resume on [Resumel](https://drive.google.com/file/d/1U5NyraYYDa65HrnUQmJZ1_UXZXCHi6WZ/view?usp=sharing)
 - 🔗 &nbsp; Check out my links on [Linktree](https://linktr.ee/taiwoemmanuel)
@@ -32,18 +33,21 @@ I'm currently building in frontend and love the journey so far!.
 
 - 🎸 &nbsp; I love sports.
 - 🎮 &nbsp; I love playing games.
-- ✍️ &nbsp; I love reading and writing.
+- ✍️  &nbsp; I love reading and writing.
 
 ### Languages and Tools:
 
-<code><img height="40" src="https://realemmanuel.vercel.app/assets/Images/javascript.svg" alt="javascript"></code>
-<code><img height="40" src="https://realemmanuel.vercel.app/assets/Images/nextjs.svg" alt="nextjs"></code>
-<code><img height="40" src="https://realemmanuel.vercel.app/assets/Images/git.svg" alt="git"></code>
-<code><img height="40" src="https://realemmanuel.vercel.app/assets/Images/redux.svg" alt="git"></code>
-<code><img height="40" src="https://realemmanuel.vercel.app/assets/Images/typescript.svg" alt="typescript"></code>
-<code><img height="40" src="https://realemmanuel.vercel.app/assets/Images/nodejs.svg" alt="nodejs"></code>
-<code><img height="40" src="https://realemmanuel.vercel.app/assets/Images/firebase.svg" alt="firebase"></code>
-<code><img height="40" src="https://realemmanuel.vercel.app/assets/Images/graphql.svg" alt="graphql"></code>
+<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FWnKH05y%2Fjavascript.png&w=64&q=75" alt="javascript"></code>
+<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FrGtbdjt%2Fnextjs.png&w=64&q=75" alt="nextjs"></code>
+<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FZV8ZgqB%2Fgit.png&w=64&q=75" alt="git"></code>
+<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FYRKNrsX%2Fredux.png&w=64&q=75" alt="redux"></code>
+<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FBVQR9pF%2Ftypescript.png&w=64&q=75" alt="typescript"></code>
+<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FQYmPyZp%2Fnodejs.png&w=64&q=75" alt="nodejs"></code>
+<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FKW15WFK%2Ffirebase.png&w=64&q=75" alt="firebase"></code>
+<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FPNVhN9J%2Fgraphql.png&w=64&q=75" alt="graphql"></code>
+<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2F1nS7C1c%2Fexpress.png&w=64&q=75" alt="expressjs"></code>
+<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FnQxYdm5%2Freact-native.png&w=64&q=75" alt="react native"></code>
+<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2F6ns8WrC%2Fmongodb.png&w=64&q=75" alt="mongodb"></code>
 
 ### Support:
 
@@ -53,7 +57,6 @@ I'm currently building in frontend and love the journey so far!.
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realemmanuel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realemmanuel&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
@@ -61,7 +64,6 @@ I'm currently building in frontend and love the journey so far!.
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
-
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=realemmanuel&hide_border=true" />
 </details>
