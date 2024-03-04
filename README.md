@@ -26,7 +26,7 @@ I'm currently building in full-stack and love the journey so far!.
 - 🧑🏽‍💻 &nbsp; I contribute to open source projects
 -  ✍️ &nbsp; I write technical blogs on [Hashnode](https://taiwoemmanuel.hashnode.dev)
 - 📫 &nbsp; How to reach me on Twitter [@thedevemmanuel](https://twitter.com/thedevemmanuel)
-- 💼 &nbsp; Find my resume on [Resumel](https://drive.google.com/file/d/1U5NyraYYDa65HrnUQmJZ1_UXZXCHi6WZ/view?usp=sharing)
+- 💼 &nbsp; Find my resume on [Resumel](https://drive.google.com/file/d/1qNOrYRZHhYOdbMLdW_nA4U-iM4imwwNs/view?usp=sharing)
 - 🔗 &nbsp; Check out my links on [Linktree](https://linktr.ee/taiwoemmanuel)
 
 ### Hobbies:
