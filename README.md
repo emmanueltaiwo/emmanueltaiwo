@@ -16,7 +16,7 @@ I have built several Projects and written some technical articles for my blog th
 I'm currently building in full-stack and love the journey so far!.
 
 
-[![](https://gitwar.herokuapp.com/badge?username=realemmanuel&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ffeb00)](https://gitwar.herokuapp.com/) <a href="https://twitter.com/realemmanuel" target="blank"><img src="https://img.shields.io/twitter/follow/realemmanuel?logo=twitter&style=for-the-badge&color=ffeb00" alt="realemmanuel" /></a>
+[![](https://gitwar.herokuapp.com/badge?username=thedevemmanuel&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ffeb00)](https://gitwar.herokuapp.com/) <a href="https://twitter.com/thedevemmanuel" target="blank"><img src="https://img.shields.io/twitter/follow/thedevemmanuel?logo=twitter&style=for-the-badge&color=ffeb00" alt="thedevemmanuel" /></a>
 
 ### About Me:
 
