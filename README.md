@@ -1,11 +1,11 @@
 ## Hey 👋, I'm [Emmanuel!](https://github.com/realemmanuel/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmanueloluwafunso/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/thedevemmanuel/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/EmmanuelCodez/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/thedevemmanuel/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/thedevemmanuel)
 
-### Great! You have arrived! Our encounter will be legendary!!!! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=realemmanuel.realemmanuel&style=flat-square&color=ffeb00)
+### I'm A Software Engineer!!!! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=emmanueltaiwo.emmanueltaiwo&style=flat-square&color=ffeb00)
 
 I'm a Results-driven Software Engineer with multiple years of experience and a proven track record in developing robust and scalable software solutions. Specialized expertise in JavaScript, Typescript, Node.js, React.js, React Native, Express.js, and NoSQL databases. Delivering innovative solutions that drive operational efficiency and enhance user experiences.
 
@@ -16,16 +16,15 @@ I have built several Projects and written some technical articles for my blog th
 I'm currently building in full-stack and love the journey so far!.
 
 
-[![](https://gitwar.herokuapp.com/badge?username=thedevemmanuel&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ffeb00)](https://gitwar.herokuapp.com/) <a href="https://twitter.com/thedevemmanuel" target="blank"><img src="https://img.shields.io/twitter/follow/thedevemmanuel?logo=twitter&style=for-the-badge&color=ffeb00" alt="thedevemmanuel" /></a>
+[![](https://gitwar.herokuapp.com/badge?username=EmmanuelCodez&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ffeb00)](https://gitwar.herokuapp.com/) <a href="https://twitter.com/EmmanuelCodez" target="blank"><img src="https://img.shields.io/twitter/follow/EmmanuelCodez?logo=twitter&style=for-the-badge&color=ffeb00" alt="EmmanuelCodez" /></a>
 
 ### About Me:
 
-- 🛠 &nbsp; I’m currently working as a freelancer and building innovative solutions
-- 🚀 &nbsp; I’m writing content for my blog
+- 🛠 &nbsp; I’m currently working as a software engineer
+- 🚀 &nbsp; I’m writing technical content for my blog
 - 📈 &nbsp; I'm building [Spendsense](https://spendsense.com.ng), [PicGenie](https://picgenie.vercel.app) & [Clutch](https://cluthapp.vercel.app)
-- 🧑🏽‍💻 &nbsp; I contribute to open source projects
 -  ✍️ &nbsp; I write technical blogs on [Hashnode](https://taiwoemmanuel.hashnode.dev)
-- 📫 &nbsp; How to reach me on Twitter [@thedevemmanuel](https://twitter.com/thedevemmanuel)
+- 📫 &nbsp; How to reach me on Twitter [@EmmanuelCodez](https://twitter.com/EmmanuelCodez)
 - 💼 &nbsp; Find my resume on [Resumel](https://drive.google.com/file/d/13kTAZ7ZrOXqJ3fxABKKFUbEAo8YrnIDa/view?usp=sharing)
 - 🔗 &nbsp; Check out my links on [Linktree](https://linktr.ee/taiwoemmanuel)
 
@@ -59,14 +58,14 @@ I'm currently building in full-stack and love the journey so far!.
   <summary><b>⚡ Github Stats</b></summary>
   <br />
 	
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realemmanuel&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanueltaiwo&show_icons=true&theme=radical)
 
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=realemmanuel&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emmanueltaiwo&hide_border=true" />
 </details>
 
 <details>
@@ -86,19 +85,19 @@ I'm currently building in full-stack and love the journey so far!.
     </thead>
     <tbody>
       <tr>
-	<td><a href="https://github.com/realemmanuel/spendsense"><b>📈 SpendSense</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/realemmanuel/spendsense?style=flat-square&labelColor=343b41&color=ffeb00"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/realemmanuel/spendsense?style=flat-square&labelColor=343b41&color=ffeb00"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/realemmanuel/spendsense?style=flat-square&color=ffeb00"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/realemmanuel/spendsense?style=flat-square&color=ffeb00"/></td>
+	<td><a href="https://github.com/emmanueltaiwo/spendsense"><b>📈 SpendSense</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/emmanueltaiwo/spendsense?style=flat-square&labelColor=343b41&color=ffeb00"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/emmanueltaiwo/spendsense?style=flat-square&labelColor=343b41&color=ffeb00"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/emmanueltaiwo/spendsense?style=flat-square&color=ffeb00"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/emmanueltaiwo/spendsense?style=flat-square&color=ffeb00"/></td>
         <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square&color=ffeb00"/></td> 
       </tr>
 	<tr>
-	<td><a href="https://github.com/realemmanuel/picgenie-frontend"><b>🧑🏽‍💻 PicGenie</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/realemmanuel/picgenie-frontend?style=flat-square&labelColor=343b41&color=ffeb00"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/realemmanuel/picgenie-frontend?style=flat-square&labelColor=343b41&color=ffeb00"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/realemmanuel/picgenie-frontend?style=flat-square&color=ffeb00"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/realemmanuel/picgenie-frontend?style=flat-square&color=ffeb00"/></td>
+	<td><a href="https://github.com/emmanueltaiwo/picgenie-frontend"><b>🧑🏽‍💻 PicGenie</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/emmanueltaiwo/picgenie-frontend?style=flat-square&labelColor=343b41&color=ffeb00"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/emmanueltaiwo/picgenie-frontend?style=flat-square&labelColor=343b41&color=ffeb00"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/emmanueltaiwo/picgenie-frontend?style=flat-square&color=ffeb00"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/emmanueltaiwo/picgenie-frontend?style=flat-square&color=ffeb00"/></td>
         <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square&color=ffeb00"/></td> 
       </tr>
     </tbody>
