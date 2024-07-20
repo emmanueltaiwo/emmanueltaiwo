@@ -19,17 +19,29 @@
 
 ### Languages and Tools:
 
-<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FWnKH05y%2Fjavascript.png&w=64&q=75" alt="javascript"></code>
-<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FrGtbdjt%2Fnextjs.png&w=64&q=75" alt="nextjs"></code>
-<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FZV8ZgqB%2Fgit.png&w=64&q=75" alt="git"></code>
-<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FYRKNrsX%2Fredux.png&w=64&q=75" alt="redux"></code>
-<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FBVQR9pF%2Ftypescript.png&w=64&q=75" alt="typescript"></code>
-<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FQYmPyZp%2Fnodejs.png&w=64&q=75" alt="nodejs"></code>
-<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FKW15WFK%2Ffirebase.png&w=64&q=75" alt="firebase"></code>
-<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FPNVhN9J%2Fgraphql.png&w=64&q=75" alt="graphql"></code>
-<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2F1nS7C1c%2Fexpress.png&w=64&q=75" alt="expressjs"></code>
-<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FnQxYdm5%2Freact-native.png&w=64&q=75" alt="react native"></code>
-<code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2F6ns8WrC%2Fmongodb.png&w=64&q=75" alt="mongodb"></code>
+<table>
+  <tr>
+    <td><img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"></td>
+    <td><img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"></td>
+    <td><img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"></td>
+    <td><img height="40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"></td>
+    <td><img height="40" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express"></td>
+  </tr>
+  <tr>
+    <td><img height="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"></td>
+    <td><img height="40" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native"></td>
+    <td><img height="40" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"></td>
+    <td><img height="40" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="materialui"></td>
+    <td><img height="40" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"></td>
+  </tr>
+  <tr>
+    <td><img height="40" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"></td>
+    <td><img height="40" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"></td>
+    <td><img height="40" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="jest"></td>
+    <td><img height="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"></td>
+  </tr>
+</table>
+
 
 ### My GitHub Stats:
 
