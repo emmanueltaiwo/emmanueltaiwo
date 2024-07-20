@@ -1,38 +1,21 @@
-## Hey 👋, I'm [Emmanuel!](https://github.com/realemmanuel/)
+## Hey 👋, I'm [Emmanuel!](https://github.com/emmanueltaiwo/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmanueloluwafunso/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/EmmanuelCodez/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/thedevemmanuel/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/thedevemmanuel)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/emmanuelcodez/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iamemmzy)
 
-### I'm A Software Engineer!!!! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=emmanueltaiwo.emmanueltaiwo&style=flat-square&color=ffeb00)
-
-I'm a Results-driven Software Engineer with multiple years of experience and a proven track record in developing robust and scalable software solutions. Specialized expertise in JavaScript, Typescript, Node.js, React.js, React Native, Express.js, and NoSQL databases. Delivering innovative solutions that drive operational efficiency and enhance user experiences.
-
-I am self-taught, and love discussing and writing about software development.
-
-I have built several Projects and written some technical articles for my blog the tech space.
-
-I'm currently building in full-stack and love the journey so far!.
-
+# I'm A Software Engineer!!!! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=emmanueltaiwo.emmanueltaiwo&style=flat-square&color=ffeb00)
 
 [![](https://gitwar.herokuapp.com/badge?username=EmmanuelCodez&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ffeb00)](https://gitwar.herokuapp.com/) <a href="https://twitter.com/EmmanuelCodez" target="blank"><img src="https://img.shields.io/twitter/follow/EmmanuelCodez?logo=twitter&style=for-the-badge&color=ffeb00" alt="EmmanuelCodez" /></a>
 
 ### About Me:
 
 - 🛠 &nbsp; I’m currently working as a software engineer
-- 🚀 &nbsp; I’m writing technical content for my blog
 - 📈 &nbsp; I'm building [Spendsense](https://spendsense.com.ng), [PicGenie](https://picgenie.vercel.app) & [Clutch](https://cluthapp.vercel.app)
--  ✍️ &nbsp; I write technical blogs on [Hashnode](https://taiwoemmanuel.hashnode.dev)
 - 📫 &nbsp; How to reach me on Twitter [@EmmanuelCodez](https://twitter.com/EmmanuelCodez)
 - 💼 &nbsp; Find my resume on [Resumel](https://drive.google.com/file/d/13kTAZ7ZrOXqJ3fxABKKFUbEAo8YrnIDa/view?usp=sharing)
 - 🔗 &nbsp; Check out my links on [Linktree](https://linktr.ee/taiwoemmanuel)
-
-### Hobbies:
-
-- 🎸 &nbsp; I love sports.
-- 🎮 &nbsp; I love playing games.
-- ✍️  &nbsp; I love reading and writing.
 
 ### Languages and Tools:
 
@@ -47,10 +30,6 @@ I'm currently building in full-stack and love the journey so far!.
 <code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2F1nS7C1c%2Fexpress.png&w=64&q=75" alt="expressjs"></code>
 <code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FnQxYdm5%2Freact-native.png&w=64&q=75" alt="react native"></code>
 <code><img height="40" src="https://emmanueltaiwo.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2F6ns8WrC%2Fmongodb.png&w=64&q=75" alt="mongodb"></code>
-
-### Support:
-
-<a href="https://www.buymeacoffee.com/realemmanuel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="realemmanuel" /></a>
 
 ### My GitHub Stats:
 
