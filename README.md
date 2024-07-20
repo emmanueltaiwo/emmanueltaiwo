@@ -7,7 +7,7 @@
 
 # I'm A Software Engineer!!!! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=emmanueltaiwo.emmanueltaiwo&style=flat-square&color=ffeb00)
 
-[![](https://gitwar.herokuapp.com/badge?username=EmmanuelCodez&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ffeb00)](https://gitwar.herokuapp.com/) <a href="https://twitter.com/EmmanuelCodez" target="blank"><img src="https://img.shields.io/twitter/follow/EmmanuelCodez?logo=twitter&style=for-the-badge&color=ffeb00" alt="EmmanuelCodez" /></a>
+[![](https://gitwar.herokuapp.com/badge?username=emmanueltaiwo_&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ffeb00)](https://gitwar.herokuapp.com/) <a href="https://twitter.com/emmanueltaiwo_" target="blank"><img src="https://img.shields.io/twitter/follow/emmanueltaiwo_?logo=twitter&style=for-the-badge&color=ffeb00" alt="emmanueltaiwo_" /></a>
 
 ### About Me:
 
