@@ -8,10 +8,10 @@
 ---
 
 ### About Me:
-- 💼 Software Engineer
+- 💼 Software & AI Engineer
 - 🚀 Building [Reflectio](https://reflectio.com.ng), [Spendsense](https://spendsense.com.ng), [PicGenie](https://picgenie.emmanueltaiwo.com.ng/), and [Clutch](https://clutchapp.emmanueltaiwo.com.ng/)
 - 🌐 Check my links: [Linktree](https://linktr.ee/taiwoemmanuel)
-- 💬 Reach me on Twitter: [@emmanueltaiwo_](https://twitter.com/emmanueltaiwo_)
+- 💬 Follow me Twitter: [@emmanueltaiwo_](https://twitter.com/emmanueltaiwo_)
 
 ---
 
