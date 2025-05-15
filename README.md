@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Emmanuel!](https://github.com/emmanueltaiwo/)
+## Hey 👋, I'm [Emmanuel Taiwo!](https://github.com/emmanueltaiwo/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanueloluwafunso/)
 [![Twitter](https://img.shields.io/badge/Twitter-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/emmanueltaiwo_)
@@ -8,7 +8,7 @@
 ---
 
 ### About Me:
-- 💼 Software Engineer
+- 💼 AI Engineer
 - 🚀 Building [Reflectio](https://reflectio.com.ng), [Spendsense](https://spendsense.com.ng), [PicGenie](https://picgenie.emmanueltaiwo.com.ng/), and [Clutch](https://clutchapp.emmanueltaiwo.com.ng/)
 - 🌐 Check my links: [Linktree](https://linktr.ee/taiwoemmanuel)
 - 💬 Reach me on Twitter: [@emmanueltaiwo_](https://twitter.com/emmanueltaiwo_)
