@@ -52,6 +52,6 @@ Over the past few years, I’ve shipped multiple **AI-powered SaaS products**, f
 ---
 
 ### 📫 Let’s Connect
-- 🌐 Portfolio: [emmanueltaiwo](https://emmanueltaiwo.vercel.app/)  
+- 🌐 Portfolio: [emmanueltaiwo](https://emmanueltaiwo.dev/)  
 - 🐦 Twitter: [@emmanueltaiwo_](https://x.com/ex0xai)  
 - 💼 LinkedIn: [emmanueloluwafunso](https://www.linkedin.com/in/emmanueloluwafunso/)  
